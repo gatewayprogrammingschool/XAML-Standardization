@@ -11,6 +11,11 @@
   * [Current State](#current-state)
     * [Available Frameworks](#available-frameworks)
   * [Tags](#tags)
+    * [Layout Tags](#layout-tags)
+    * [Typography Tags](#typography-tags)
+    * [Editing Tags](#editing-tags)
+    * [Navigation Tags](#navigation-tags)
+    * [Other Tags](#other-tags)
   * [Acknowledgements](#acknowledgements)
 
 <!-- toc! -->
@@ -26,6 +31,7 @@
 ### History
 <!-- /include -->
 <!-- include (currentstate.md) -->
+<!-- markdownlint-disable MD041 -->
 <a name="current-state"></a>
 
 ## Current State
@@ -108,6 +114,26 @@
 
 ## Tags
 
+<!-- markdownlint-disable MD041 -->
+<a name="layout-tags"></a>
+
+### Layout Tags
+<!-- markdownlint-disable MD041 -->
+<a name="typography-tags"></a>
+
+### Typography Tags
+<!-- markdownlint-disable MD041 -->
+<a name="editing-tags"></a>
+
+### Editing Tags
+<!-- markdownlint-disable MD041 -->
+<a name="navigation-tags"></a>
+
+### Navigation Tags
+<!-- markdownlint-disable MD041 -->
+<a name="other-tags"></a>
+
+### Other Tags
 <!-- /include -->
 
 <!-- include (footer.md) -->
